@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CursorHomeWork-15/static/css/main.5e2a2789.css",
+    "main.js": "/CursorHomeWork-15/static/js/main.254b2b4f.js",
+    "index.html": "/CursorHomeWork-15/index.html",
+    "main.5e2a2789.css.map": "/CursorHomeWork-15/static/css/main.5e2a2789.css.map",
+    "main.254b2b4f.js.map": "/CursorHomeWork-15/static/js/main.254b2b4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2a2789.css",
+    "static/js/main.254b2b4f.js"
+  ]
+}
